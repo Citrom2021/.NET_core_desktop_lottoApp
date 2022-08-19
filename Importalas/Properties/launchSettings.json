@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Importalas": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Admin\\Desktop\\JagerStaff\\Vizsgara_Felkeszules\\MintaProjectek\\vl.csv"
+    }
+  }
+}

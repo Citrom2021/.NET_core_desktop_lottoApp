@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\LottoAdatbazis.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\LottoAdatbazis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\LottoAdatbazis.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\LottoAdatbazis.AssemblyInfo.cs
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\LottoAdatbazis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\bin\Debug\net5.0\LottoAdatbazis.deps.json
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\bin\Debug\net5.0\LottoAdatbazis.runtimeconfig.json
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\bin\Debug\net5.0\LottoAdatbazis.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\bin\Debug\net5.0\LottoAdatbazis.dll
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\bin\Debug\net5.0\LottoAdatbazis.pdb
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\LottoAdatbazis.dll
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\refint\LottoAdatbazis.dll
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\LottoAdatbazis.pdb
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\LottoAdatbazis.genruntimeconfig.cache
+C:\Users\Admin\Desktop\JagerStaff\Vizsgara_Felkeszules\MintaProjectek\LottoGyakorlas\LottoAdatbazis\obj\Debug\net5.0\ref\LottoAdatbazis.dll
